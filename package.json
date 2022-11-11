@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "tp-mvc",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -14,4 +14,3 @@
     "morgan": "~1.9.1"
   }
 }
-

@@ -1,8 +1,8 @@
 module.exports = {
-    home : (req,res) => {
+    home:(req,res)=>{
         return res.render('home')
     },
-    about : (req,res) => {
+    about:(req,res)=>{
         return res.render('about')
     }
 }
